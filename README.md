@@ -12,7 +12,6 @@ Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Do
 
 ## Contact
 
-If you have any questions, feel free to contact Boyu Wang. 
-
+If you have any questions, feel free to contact Boyu Wang. <br />
 Email: bwang "at" csd "dot" uwo "dot" ca
 

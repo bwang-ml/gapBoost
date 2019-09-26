@@ -4,4 +4,15 @@ Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Do
 
 ## Run the Code
 
-Before running the code, you need to download and install the [LogisticR](http://yelabs.net/software/SLEP/) toolbox (SLEP_package_4.1.zip). 
+1. Download and install the [LogisticR](http://yelabs.net/software/SLEP/) toolbox. 
+2. Download the [20 Newsgroups](http://www.cad.zju.edu.cn/home/dengcai/Data/TextData.html) data set.
+3. Add the toolbox and data set into your Matlab path.
+4. Run main.m
+
+
+## Contact
+
+If you have any questions, feel free to contact Boyu Wang. 
+
+Email: bwang "at" csd "dot" uwo "dot" ca
+

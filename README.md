@@ -1,6 +1,6 @@
 # Transfer Learning via Minimizing Performance Gap Between Domains
 
-Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Domains'.
+Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Domains' in NeuIPS 2019.
 
 ## Run the Code
 

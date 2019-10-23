@@ -8,7 +8,7 @@ Taskind = [11 19 10 18; 4 14 5 12; 8 13 9 15; 15 17 14 19; 4 8 5 9; 2 20 3 19]; 
 ratios = [0.01,0.02,0.05,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8];                                  % ratio of target training sample
 numRatio = length(ratios);                              
 numRandom = 20;                                                                             % repeat 20 times
-numRho = 10;                                                                                % vary the value of rho_S
+numRho = 9;                                                                                 % vary the value of rho_S
 
 
 

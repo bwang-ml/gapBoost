@@ -10,8 +10,22 @@ Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Do
 4. Run main.m
 
 
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+@incollection{NIPS2019_9249,
+title = {Transfer Learning via Minimizing the Performance Gap Between Domains},
+author = {Wang, Boyu and Mendez, Jorge and Cai, Ming Bo and Eaton, Eric},
+booktitle = {Advances in Neural Information Processing Systems},
+pages = {10644--10654},
+year = {2019},
+}
+
+
 ## Contact
 
 If you have any questions, feel free to contact Boyu Wang. <br />
 Email: bwang "at" csd "dot" uwo "dot" ca
+
 

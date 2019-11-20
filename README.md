@@ -10,6 +10,20 @@ Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Do
 4. Run main.m
 
 
+## Citation
+
+If you find this code useful in your research, please consider citing:
+
+```
+@inproceedings{wang2019transfer,
+  title={Transfer Learning via Minimizing the Performance Gap Between Domains},
+  author={Wang, Boyu and Mendez, Jorge and Cai, Mingbo and Eaton, Eric},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={10644--10654},
+  year={2019}
+}
+```
+
 ## Contact
 
 If you have any questions, feel free to contact Boyu Wang. <br />

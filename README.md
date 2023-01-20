@@ -1,6 +1,6 @@
-# Transfer Learning via Minimizing Performance Gap Between Domains
+# Boosted Transfer Learning via Minimizing Performance Gap Between Domains
 
-Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Domains' in NeurIPS 2019.
+Codes for the paper 'Transfer Learning via Minimizing Performance Gap Between Domains' in NeurIPS 2019, and  'Gap Minimization for Knowledge Sharing and Transfer' in JMLR.
 
 ## Run the Code
 

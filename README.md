@@ -24,6 +24,22 @@ If you find this code useful in your research, please consider citing:
 }
 ```
 
+and
+
+
+```
+@article{JMLR:v24:22-0099,
+  author  = {Boyu Wang and Jorge A. Mendez and Changjian Shui and Fan Zhou and Di Wu and Gezheng Xu and Christian Gagné and Eric Eaton},
+  title   = {Gap Minimization for Knowledge Sharing and Transfer},
+  journal = {Journal of Machine Learning Research},
+  year    = {2023},
+  volume  = {24},
+  number  = {33},
+  pages   = {1--57},
+  url     = {http://jmlr.org/papers/v24/22-0099.html}
+}
+
+
 ## Contact
 
 If you have any questions, feel free to contact Boyu Wang. <br />

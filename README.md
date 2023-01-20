@@ -1,6 +1,6 @@
 # Boosted Transfer Learning via Minimizing Performance Gap Between Domains
 
-gapBoost for the papers [Transfer Learning via Minimizing Performance Gap Between Domains](https://proceedings.neurips.cc/paper/2019/hash/c66dd00e5fc44ba8de89d7713fedcd50-Abstract.html) in NeurIPS 2019, and  [Gap Minimization for Knowledge Sharing and Transfer](https://jmlr.org/papers/v24/22-0099.html) in JMLR.
+gapBoost demo for the papers [Transfer Learning via Minimizing Performance Gap Between Domains](https://proceedings.neurips.cc/paper/2019/hash/c66dd00e5fc44ba8de89d7713fedcd50-Abstract.html) in NeurIPS 2019, and  [Gap Minimization for Knowledge Sharing and Transfer](https://jmlr.org/papers/v24/22-0099.html) in JMLR.
 
 ## Run the Code
 

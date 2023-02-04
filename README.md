@@ -28,15 +28,14 @@ and
 
 
 ```
-@article{JMLR:v24:22-0099,
-  author  = {Boyu Wang and Jorge A. Mendez and Changjian Shui and Fan Zhou and Di Wu and Gezheng Xu and Christian Gagné and Eric Eaton},
-  title   = {Gap Minimization for Knowledge Sharing and Transfer},
-  journal = {Journal of Machine Learning Research},
-  year    = {2023},
-  volume  = {24},
-  number  = {33},
-  pages   = {1--57},
-  url     = {http://jmlr.org/papers/v24/22-0099.html}
+@article{wang2023gap,
+  title={Gap Minimization for Knowledge Sharing and Transfer},
+  author={Wang, Boyu and Mendez, Jorge A and Shui, Changjian and Zhou, Fan and Xu, Gezheng and Gagn{\'e}, Christian and Eaton, Eric},
+  journal={Journal of Machine Learning Research},
+  volume={24},
+  number={33},
+  pages={1--57},
+  year={2023}
 }
 ```
 

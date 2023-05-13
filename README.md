@@ -24,6 +24,7 @@ If you find this code useful in your research, please consider citing:
 },
 ```
 
+```
 @inproceedings{wang2019multitask,
   title={Multitask metric learning: Theory and algorithm},
   author={Wang, Boyu and Zhang, Hejia and Liu, Peng and Shen, Zebang and Pineau, Joelle},

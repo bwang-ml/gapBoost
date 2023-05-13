@@ -21,6 +21,15 @@ If you find this code useful in your research, please consider citing:
   booktitle={Advances in Neural Information Processing Systems},
   pages={10644--10654},
   year={2019}
+},
+```
+
+@inproceedings{wang2019multitask,
+  title={Multitask metric learning: Theory and algorithm},
+  author={Wang, Boyu and Zhang, Hejia and Liu, Peng and Shen, Zebang and Pineau, Joelle},
+  booktitle={The 22nd International Conference on Artificial Intelligence and Statistics},
+  pages={3362--3371},
+  year={2019}
 }
 ```
 

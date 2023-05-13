@@ -12,7 +12,7 @@ gapBoost demo for the papers [Transfer Learning via Minimizing Performance Gap B
 
 ## Citation
 
-If you find this code useful in your research, please consider citing:
+If you find this code useful in your research, please consider citing the following articles:
 
 ```
 @inproceedings{wang2019transfer,
@@ -21,7 +21,7 @@ If you find this code useful in your research, please consider citing:
   booktitle={Advances in Neural Information Processing Systems},
   pages={10644--10654},
   year={2019}
-},
+}
 ```
 
 ```
